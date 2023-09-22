@@ -1,0 +1,101 @@
+{
+  "questions": {
+    "0": {
+      "question": "What is the answer of 1 + 1?",
+      "variants": ["1", "10", "5", "2"]
+    },
+    "1": {
+      "question": "How many fingers does a person have?",
+      "variants": ["5", "8", "10", "12"]
+    },
+    "2": {
+      "question": "What do you call a group of crows?",
+      "variants": ["A flock", "A murder", "A herd", "A party"]
+    },
+    "3": {
+      "question": "How many sides does a triangle have?",
+      "variants": ["2", "3", "4", "5"]
+    },
+    "4": {
+      "question": "What comes after Monday?",
+      "variants": ["Yesterday", "Friday", "Tuesday", "Saturday"]
+    },
+    "5": {
+      "question": "How many continents are there on Earth?",
+      "variants": ["3", "5", "6", "7"]
+    },
+    "6": {
+      "question": "What is the opposite of 'up'?",
+      "variants": ["Down", "Left", "Right", "Sideways"]
+    },
+    "7": {
+      "question": "How many wheels does a bicycle typically have?",
+      "variants": ["0", "1", "2", "3"]
+    },
+    "8": {
+      "question": "What color is a ripe banana?",
+      "variants": ["Blue", "Green", "Yellow", "Red"]
+    },
+    "9": {
+      "question": "How many fingers does a thumb have?",
+      "variants": ["1", "2", "3", "4"]
+    },
+    "10": {
+      "question": "What is the opposite of 'hot'?",
+      "variants": ["Cold", "Warm", "Burning", "Cool"]
+    },
+    "11": {
+      "question": "How many months are there in a year?",
+      "variants": ["6", "8", "10", "12"]
+    },
+    "12": {
+      "question": "What is the main ingredient in chocolate?",
+      "variants": ["Sugar", "Milk", "Cocoa", "Cheese"]
+    },
+    "13": {
+      "question": "What is the capital of France?",
+      "variants": ["Berlin", "London", "Madrid", "Paris"]
+    },
+    "14": {
+      "question": "How many legs does a spider have?",
+      "variants": ["4", "6", "8", "10"]
+    },
+    "15": {
+      "question": "What do you get when you mix red and yellow?",
+      "variants": ["Green", "Orange", "Purple", "Brown"]
+    },
+    "16": {
+      "question": "How many continents are there on Mars?",
+      "variants": ["1", "2", "3", "4"]
+    },
+    "17": {
+      "question": "What is the square root of 16?",
+      "variants": ["2", "4", "8", "16"]
+    },
+    "18": {
+      "question": "What's the sum of 2 and 2?",
+      "variants": ["2", "3", "4", "22"]
+    }
+  },
+  "answers": {
+    "0": "2",
+    "1": "5",
+    "2": "A murder",
+    "3": "3",
+    "4": "Tuesday",
+    "5": "7",
+    "6": "Down",
+    "7": "2",
+    "8": "Yellow",
+    "9": "1",
+    "10": "Cold",
+    "11": "12",
+    "12": "Cocoa",
+    "13": "Paris",
+    "14": "8",
+    "15": "Orange",
+    "16": "0",
+    "17": "4",
+    "18": "4"
+  }
+}
